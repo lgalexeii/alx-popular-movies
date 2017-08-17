@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_details">Movie Details</string>
+    <string name="label_title">Original Title</string>
+    <string name="label_user_rating">User Rating</string>
+    <string name="label_release_date">Release Date</string>
+    <string name="label_synopsis">Synopsis</string>
+
+    <string name="pref_order_label_popular">Popularity</string>
+    <string name="pref_order_label_user_rating">User Rating</string>
+
+    <!--The name of end points to use -->
+    <string name="pref_order_popular">popular</string>
+    <string name="pref_order_user_rating">top_rated</string>
+
+    <!--Key and label for preferences -->
+    <string name="pref_order_label">Order By</string>
+    <string name="pref_order_key">order</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>
